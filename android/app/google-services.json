@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516646056258",
+    "project_id": "lojavirtualizer",
+    "storage_bucket": "lojavirtualizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516646056258:android:957070a99987b0319d98db",
+        "android_client_info": {
+          "package_name": "br.com.jvpd83.loja_virtualizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516646056258-3amdj5j5d02mpedf2r2pkpnjs9na35gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd91ALzZTLhV43rKYBkxYDDD_eN30zbyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516646056258-3amdj5j5d02mpedf2r2pkpnjs9na35gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
