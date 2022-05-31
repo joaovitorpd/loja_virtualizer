@@ -37,6 +37,8 @@ class ProductTile extends StatelessWidget {
                     children: [
                       Text(
                         product.title,
+
+
                         style: const TextStyle(
                           fontWeight: FontWeight.w500
                         ),
